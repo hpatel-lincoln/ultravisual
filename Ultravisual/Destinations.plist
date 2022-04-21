@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>New Orleans</string>
+		<key>Background</key>
+		<string>Photo-1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Portland</string>
+		<key>Background</key>
+		<string>Photo-2</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Chicago</string>
+		<key>Background</key>
+		<string>Photo-3</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Udaipur</string>
+		<key>Background</key>
+		<string>Photo-4</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jaipur</string>
+		<key>Background</key>
+		<string>Photo-5</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Rocky Mountains</string>
+		<key>Background</key>
+		<string>Photo-6</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Breckenridge</string>
+		<key>Background</key>
+		<string>Photo-7</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kaanapali Beach</string>
+		<key>Background</key>
+		<string>Photo-8</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Road to Hana</string>
+		<key>Background</key>
+		<string>Photo-9</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jacksonville</string>
+		<key>Background</key>
+		<string>Photo-10</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>St. Augustine</string>
+		<key>Background</key>
+		<string>Photo-11</string>
+	</dict>
+</array>
+</plist>
